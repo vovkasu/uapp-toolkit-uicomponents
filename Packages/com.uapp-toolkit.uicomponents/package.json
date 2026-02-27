@@ -1,0 +1,21 @@
+{
+  "name": "com.uapp-toolkit.uicomponents",
+  "version": "1.0.0",
+  "displayName": "UIComponents",
+  "description": "UIComponents",
+  "unity": "2021.3",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.localization": "1.5.7",
+    "com.dbrizov.naughtyattributes": "2.1.4"
+  },
+  "keywords": [
+    "UI",
+    "components"
+  ],
+  "author": {
+    "name": "Surov Volodymyr",
+    "email": "vovkasu@gmail.com"
+  },
+  "samples": []  
+}  
