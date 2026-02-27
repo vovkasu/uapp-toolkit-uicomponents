@@ -1,6 +1,13 @@
 Changelog
 =========
 
+[1.0.1] - 2026.02.27
+--------------------
+* **Added** -
+* **Changed** -
+* **Fixed** 
+    * Remove the abstract modifier from CompositeNotificationModel
+
 [1.0.0] - 2026.02.27
 --------------------
 * **Added** 
