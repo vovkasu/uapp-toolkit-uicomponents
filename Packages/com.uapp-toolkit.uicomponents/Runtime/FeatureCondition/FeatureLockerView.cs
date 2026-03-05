@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Localization.Components;
 using UnityEngine.UI;
 
-namespace UAppToolkit.UIComponents.FeatureCondition
+namespace UAppToolKit.UIComponents.FeatureCondition
 {
     public class FeatureLockerView : MonoBehaviour
     {

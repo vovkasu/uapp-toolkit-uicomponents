@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     public static class ScrollExtensions
     {

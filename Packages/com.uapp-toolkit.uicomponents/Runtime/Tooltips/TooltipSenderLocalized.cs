@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Localization;
 
-namespace UAppToolkit.UIComponents.Tooltips
+namespace UAppToolKit.UIComponents.Tooltips
 {
     public class TooltipSenderLocalized : TooltipSender
     {

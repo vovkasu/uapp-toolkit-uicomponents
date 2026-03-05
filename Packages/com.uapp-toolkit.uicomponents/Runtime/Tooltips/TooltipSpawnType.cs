@@ -1,4 +1,4 @@
-﻿namespace UAppToolkit.UIComponents.Tooltips
+﻿namespace UAppToolKit.UIComponents.Tooltips
 {
     public enum TooltipSpawnType
     {

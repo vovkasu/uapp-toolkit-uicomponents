@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     public class HorizontalSelectorsLayout : MonoBehaviour
     {

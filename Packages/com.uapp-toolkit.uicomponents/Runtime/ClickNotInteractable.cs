@@ -3,7 +3,7 @@ using UnityEngine.Events;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     [RequireComponent(typeof(Selectable))]
     public class ClickNotInteractable : MonoBehaviour, IPointerClickHandler, IPointerDownHandler

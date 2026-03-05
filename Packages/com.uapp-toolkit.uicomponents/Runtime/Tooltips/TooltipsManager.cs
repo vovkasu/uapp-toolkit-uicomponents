@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace UAppToolkit.UIComponents.Tooltips
+namespace UAppToolKit.UIComponents.Tooltips
 {
     public class TooltipsManager : MonoBehaviour
     {

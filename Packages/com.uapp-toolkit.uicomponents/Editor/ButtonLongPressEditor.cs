@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEditor.UI;
 
-namespace UAppToolkit.UIComponents.Editor
+namespace UAppToolKit.UIComponents.Editor
 {
     [CustomEditor(typeof(ButtonLongPress), true)]
     [CanEditMultipleObjects]

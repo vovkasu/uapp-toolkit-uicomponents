@@ -1,7 +1,7 @@
 ﻿using UnityEngine.Events;
 using UnityEngine.UI;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     public class ButtonLongPressToggle : ButtonLongPress
     {

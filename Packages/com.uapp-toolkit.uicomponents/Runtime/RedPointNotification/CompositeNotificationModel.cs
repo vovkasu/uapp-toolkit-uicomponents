@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace UAppToolkit.UIComponents.RedPointNotification
+namespace UAppToolKit.UIComponents.RedPointNotification
 {
     [CreateAssetMenu(menuName = "UAppToolkit/UIComponents/CompositeNotificationModel", fileName = "CompositeNotificationModel", order = 2603)]
     public class CompositeNotificationModel : RedPointNotificationModelBase

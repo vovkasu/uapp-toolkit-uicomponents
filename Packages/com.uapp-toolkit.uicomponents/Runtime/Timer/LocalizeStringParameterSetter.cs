@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.Localization.Components;
 using UnityEngine.Localization.SmartFormat.PersistentVariables;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     public class LocalizeStringParameterSetter : MonoBehaviour
     {

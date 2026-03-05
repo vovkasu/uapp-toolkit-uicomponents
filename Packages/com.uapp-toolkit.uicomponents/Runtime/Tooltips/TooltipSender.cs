@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 
-namespace UAppToolkit.UIComponents.Tooltips
+namespace UAppToolKit.UIComponents.Tooltips
 {
     public class TooltipSender : MonoBehaviour, IPointerClickHandler
     {

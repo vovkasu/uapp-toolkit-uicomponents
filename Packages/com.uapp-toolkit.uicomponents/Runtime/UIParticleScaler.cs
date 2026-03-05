@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     [ExecuteAlways]
     public class UIParticleScaler : MonoBehaviour

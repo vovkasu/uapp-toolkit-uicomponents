@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     public abstract class TimerBase : MonoBehaviour
     {

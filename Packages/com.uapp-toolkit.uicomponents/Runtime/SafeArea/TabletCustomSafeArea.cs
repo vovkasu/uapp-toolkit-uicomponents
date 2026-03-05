@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     [CreateAssetMenu(menuName = "UAppToolkit/UIComponents/TabletCustomSafeArea", fileName = "TabletCustomSafeArea", order = 2801)]
     public class TabletCustomSafeArea : ScriptableObject

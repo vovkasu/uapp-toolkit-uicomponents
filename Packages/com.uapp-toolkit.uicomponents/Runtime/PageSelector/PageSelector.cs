@@ -5,7 +5,7 @@ using UnityEngine.Localization.Components;
 using UnityEngine.Localization.SmartFormat.PersistentVariables;
 using UnityEngine.UI;
 
-namespace UAppToolkit.UIComponents.PageSelector
+namespace UAppToolKit.UIComponents.PageSelector
 {
     public class PageSelector : MonoBehaviour
     {

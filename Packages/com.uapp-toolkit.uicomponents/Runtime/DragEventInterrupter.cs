@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     public class DragEventInterrupter : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
     {

@@ -2,7 +2,7 @@
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     public class ClickSound : MonoBehaviour, IPointerClickHandler, IPointerDownHandler
     {

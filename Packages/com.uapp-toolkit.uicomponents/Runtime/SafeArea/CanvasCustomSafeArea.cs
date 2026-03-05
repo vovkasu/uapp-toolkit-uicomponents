@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     public class CanvasCustomSafeArea : MonoBehaviour
     {

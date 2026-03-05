@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace UAppToolkit.UIComponents.RecoverableAds
+namespace UAppToolKit.UIComponents.RecoverableAds
 {
     public abstract class AdTicketBase : ScriptableObject
     {

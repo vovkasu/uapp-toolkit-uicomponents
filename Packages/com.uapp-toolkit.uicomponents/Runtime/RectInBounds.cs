@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     public class RectInBounds
     {

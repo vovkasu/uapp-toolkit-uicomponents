@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     public class TimerAutoPauser : MonoBehaviour
     {

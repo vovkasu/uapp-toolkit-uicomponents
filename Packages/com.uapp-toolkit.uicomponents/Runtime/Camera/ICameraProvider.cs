@@ -1,4 +1,4 @@
-namespace UAppToolkit.UIComponents.Camera
+namespace UAppToolKit.UIComponents.Camera
 {
     public interface ICameraProvider
     {

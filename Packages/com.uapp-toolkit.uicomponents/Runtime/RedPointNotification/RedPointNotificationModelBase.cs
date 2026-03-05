@@ -2,7 +2,7 @@ using System;
 using NaughtyAttributes;
 using UnityEngine;
 
-namespace UAppToolkit.UIComponents.RedPointNotification
+namespace UAppToolKit.UIComponents.RedPointNotification
 {
     public abstract class RedPointNotificationModelBase : ScriptableObject
     {

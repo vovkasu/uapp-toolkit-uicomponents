@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace UAppToolkit.UIComponents.RedPointNotification
+namespace UAppToolKit.UIComponents.RedPointNotification
 {
     public class NotificationsView : NotificationViewBase
     {

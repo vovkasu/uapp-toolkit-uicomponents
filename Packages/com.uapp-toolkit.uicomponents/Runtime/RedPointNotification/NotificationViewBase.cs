@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace UAppToolkit.UIComponents.RedPointNotification
+namespace UAppToolKit.UIComponents.RedPointNotification
 {
     public abstract class NotificationViewBase : MonoBehaviour
     {

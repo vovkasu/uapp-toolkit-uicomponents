@@ -1,4 +1,4 @@
-﻿namespace UAppToolkit.UIComponents
+﻿namespace UAppToolKit.UIComponents
 {
     public interface IUISoundPlayer
     {

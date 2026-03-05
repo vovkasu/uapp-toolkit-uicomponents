@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-namespace UAppToolkit.UIComponents
+namespace UAppToolKit.UIComponents
 {
     [RequireComponent(typeof(Canvas))]
     public class CanvasSizeChangedEvent : MonoBehaviour

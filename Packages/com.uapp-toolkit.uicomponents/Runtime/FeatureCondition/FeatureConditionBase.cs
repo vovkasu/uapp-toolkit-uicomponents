@@ -3,7 +3,7 @@ using NaughtyAttributes;
 using UnityEngine;
 using UnityEngine.Localization;
 
-namespace UAppToolkit.UIComponents.FeatureCondition
+namespace UAppToolKit.UIComponents.FeatureCondition
 {
     public abstract class FeatureConditionBase : ScriptableObject
     {

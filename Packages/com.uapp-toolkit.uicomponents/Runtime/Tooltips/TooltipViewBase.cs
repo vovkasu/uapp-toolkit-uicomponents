@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace UAppToolkit.UIComponents.Tooltips
+namespace UAppToolKit.UIComponents.Tooltips
 {
     public abstract class TooltipViewBase : MonoBehaviour
     {

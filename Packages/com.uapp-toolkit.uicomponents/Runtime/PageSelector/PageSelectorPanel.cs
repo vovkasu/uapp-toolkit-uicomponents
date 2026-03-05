@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace UAppToolkit.UIComponents.PageSelector
+namespace UAppToolKit.UIComponents.PageSelector
 {
     public class PageSelectorPanel : HorizontalSelectorsLayout
     {

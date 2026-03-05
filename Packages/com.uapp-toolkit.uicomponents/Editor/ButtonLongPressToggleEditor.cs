@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEditor.UI;
 using UnityEngine.UI;
 
-namespace UAppToolkit.UIComponents.Editor
+namespace UAppToolKit.UIComponents.Editor
 {
     [CustomEditor(typeof(ButtonLongPressToggle), true)]
     [CanEditMultipleObjects]

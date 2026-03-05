@@ -1,5 +1,5 @@
 using System;
-using UAppToolkit.UIComponents.Tooltips;
+using UAppToolKit.UIComponents.Tooltips;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Localization;
@@ -7,7 +7,7 @@ using UnityEngine.Localization.Components;
 using UnityEngine.Localization.SmartFormat.PersistentVariables;
 using UnityEngine.UI;
 
-namespace UAppToolkit.UIComponents.RecoverableAds
+namespace UAppToolKit.UIComponents.RecoverableAds
 {
     public class AdButton : MonoBehaviour
     {

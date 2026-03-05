@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UAppToolkit.UIComponents.RedPointNotification
+namespace UAppToolKit.UIComponents.RedPointNotification
 {
     public class RedPointNotificationView : NotificationViewBase
     {

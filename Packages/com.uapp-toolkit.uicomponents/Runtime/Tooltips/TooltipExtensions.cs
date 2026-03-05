@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 
 
-namespace UAppToolkit.UIComponents.Tooltips
+namespace UAppToolKit.UIComponents.Tooltips
 {
     public static class TooltipExtensions
     {

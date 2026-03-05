@@ -1,6 +1,15 @@
 Changelog
 =========
 
+[1.0.2] - 2026.03.05
+--------------------
+* **Added**
+    * RectExtensions - It`s a static class with extensions for Rect.
+    * RectTransformExtensions - It`s a static class with extensions for RectTransform.
+* **Changed**
+    * Changed namespace UAppToolkit > UAppToolKit
+* **Fixed** -
+
 [1.0.1] - 2026.02.27
 --------------------
 * **Added** -
