@@ -1,10 +1,9 @@
 using System.Collections;
-using Scroll.Extensions;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace MovingTower.UiComponents
+namespace UAppToolKit.UiComponents
 {
     public class CarouselScrollSnap : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IEndDragHandler
     {
