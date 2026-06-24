@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace MovingTower.UiComponents
+namespace MovingTower.UIComponents
 {
     public class DirectionalNestedScrollRect : ScrollRect
     {

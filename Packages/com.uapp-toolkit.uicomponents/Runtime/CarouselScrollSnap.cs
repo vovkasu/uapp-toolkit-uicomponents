@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace UAppToolKit.UiComponents
+namespace UAppToolKit.UIComponents
 {
     public class CarouselScrollSnap : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IEndDragHandler
     {
